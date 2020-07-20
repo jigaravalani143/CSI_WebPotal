@@ -1,6 +1,6 @@
 # A web portal to aid DJCSI Tech Team
 
-> A Vue.js project
+> https://djcsi-web.netlify.app/
 
 ## Build Setup
 
